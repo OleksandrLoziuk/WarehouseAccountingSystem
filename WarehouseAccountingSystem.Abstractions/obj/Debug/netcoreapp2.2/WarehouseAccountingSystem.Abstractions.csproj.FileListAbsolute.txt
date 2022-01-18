@@ -1,0 +1,33 @@
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.dll
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.dll
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.dll
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.dll
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.deps.json
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.runtimeconfig.json
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.runtimeconfig.dev.json
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.dll
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.csprojAssemblyReference.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.csproj.CoreCompileInputs.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.AssemblyInfoInputs.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.AssemblyInfo.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.dll
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Abstractions\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.pdb

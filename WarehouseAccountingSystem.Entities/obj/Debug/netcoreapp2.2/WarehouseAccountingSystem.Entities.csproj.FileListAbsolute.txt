@@ -1,0 +1,42 @@
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.dll
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.dll
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.dll
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.dll
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.dll
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.dll
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.deps.json
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.runtimeconfig.json
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.runtimeconfig.dev.json
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.dll
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.dll
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.csprojAssemblyReference.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.csproj.CoreCompileInputs.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.AssemblyInfoInputs.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.AssemblyInfo.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.csproj.CopyComplete
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.dll
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem.Entities\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.pdb

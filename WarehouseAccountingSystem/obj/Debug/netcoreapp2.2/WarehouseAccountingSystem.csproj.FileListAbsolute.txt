@@ -1,0 +1,221 @@
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.dll
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorAssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.TagHelpers.input.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.TagHelpers.output.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorCoreGenerate.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorTargetAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorTargetAssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Views.dll
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Views.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.dll
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.AppContext.dll
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.dll
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Repositories.dll
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.AppContext.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Repositories.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Views.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.dll
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Balance\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Balance\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Receipt\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Receipt\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Receipt\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Receipt\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Receipt\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.deps.json
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.runtimeconfig.json
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.runtimeconfig.dev.json
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.dll
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Views.dll
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Views.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.dll
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.AppContext.dll
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.dll
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Repositories.dll
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.AppContext.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Repositories.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.csprojAssemblyReference.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorAssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.TagHelpers.input.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.TagHelpers.output.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorCoreGenerate.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Balance\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Balance\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Receipt\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Receipt\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Receipt\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Delete.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Details.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorTargetAssemblyInfo.cache
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorTargetAssemblyInfo.cs
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Views.pdb
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.csproj.CopyComplete
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.dll
+C:\Users\aleks\OneDrive\Рабочий стол\AccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.deps.json
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.runtimeconfig.json
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.runtimeconfig.dev.json
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.dll
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Views.dll
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Views.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.dll
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.AppContext.dll
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.dll
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Repositories.dll
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.AppContext.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Repositories.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Abstractions.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\bin\Debug\netcoreapp2.2\WarehouseAccountingSystem.Entities.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.csprojAssemblyReference.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.csproj.CoreCompileInputs.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorAssemblyInfo.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorAssemblyInfo.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.AssemblyInfoInputs.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.AssemblyInfo.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.TagHelpers.input.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.TagHelpers.output.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorCoreGenerate.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Balance\Details.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Balance\Index.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Create.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Delete.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Details.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Edit.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Category\Index.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Create.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Delete.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Details.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Edit.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Color\Index.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Create.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Delete.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Details.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Edit.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Order\Index.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Create.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Delete.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Details.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Edit.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Product\Index.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Receipt\Create.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Receipt\Delete.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Receipt\Index.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Create.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Delete.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Details.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Edit.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\StringsOrder\Index.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Create.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Delete.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Details.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Edit.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\User\Index.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorTargetAssemblyInfo.cache
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.RazorTargetAssemblyInfo.cs
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.Views.pdb
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.csproj.CopyComplete
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.dll
+E:\ProgTest\WarehouseAccountingSystem\WarehouseAccountingSystem\obj\Debug\netcoreapp2.2\WarehouseAccountingSystem.pdb
